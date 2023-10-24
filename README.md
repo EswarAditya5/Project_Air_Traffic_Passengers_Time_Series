@@ -24,10 +24,10 @@ The Autoregressive Integrated Moving Average (ARIMA) model will be utilized to c
 In addition to ARIMA, the Prophet forecasting model, developed by Facebook, will be applied. Prophet is designed to handle time series data with prominent seasonal and holiday patterns. It automatically detects changepoints in the data and incorporates them into the forecast. This model offers flexibility and robustness in capturing time series patterns in San Francisco air traffic.
 
 ### Visualization with Plotly
-Plotly, a powerful Python library for data visualization, will be harnessed to create interactive and informative visualizations of the air traffic data, model predictions, and forecasted trends. These visualizations enhance the understanding of the dataset and the performance of the models.
+Plotly, a powerful Python library for data visualization will be harnessed to create interactive and informative visualizations of the air traffic data, model predictions, and forecasted trends. These visualizations enhance the understanding of the dataset and the performance of the models.
 
 ### Stationarity Analysis
-To ensure the suitability of time series models like ARIMA and Prophet, stationarity analysis will be conducted. This involves using the Augmented Dickey-Fuller (ADF) test and Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test. Stationarity is a fundamental assumption in time series analysis, and these tests assist in determining whether differencing is necessary to attain stationarity in the San Francisco air traffic data.
+To ensure the suitability of time series models like ARIMA and Prophet, a stationarity analysis will be conducted. This involves using the Augmented Dickey-Fuller (ADF) test and the Kwiatkowski-Phillips-Schmidt-Shin (KPSS) test. Stationarity is a fundamental assumption in time series analysis, and these tests assist in determining whether differencing is necessary to attain stationarity in the San Francisco air traffic data.
 
 ### Deployment with Streamlit
 The time series analysis will be deployed using Streamlit, a Python library for creating web applications with ease. The Streamlit application will enable users to interact with the analysis, explore visualizations, and make predictions based on the developed models. Access the deployed application through this link: [Streamlit](https://project6airtrafficpassengerstimeseries-xz5lmq9fe9myo6j7ar2r9b.streamlit.app/)
