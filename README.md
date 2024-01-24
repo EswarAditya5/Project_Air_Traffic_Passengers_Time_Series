@@ -39,8 +39,4 @@ Feel free to explore the code, findings, and the Streamlit app in this repositor
 Thank you for visiting this project!
 
 **Author:** Eswar Aditya
-**Contact:** eswaraditya63@gmail.com
-
-<!--
-https://github.com/Makorg123/Project6_Air_Traffic_Passengers_Time_Series/assets/84630559/24bb9480-3419-4f8d-8011-c7afe668a147
--->
+**Contact:** eadityar@gmail.com
